@@ -8,7 +8,7 @@
 const PROJECT_NAME = "git-collab-mini";
 
 // ★ À MODIFIER PAR LES DEUX (VALEUR DIFFÉRENTE OBLIGATOIRE)
-const AUTHOR_NAME = "Noah <NOM>";
+const AUTHOR_NAME = "Noah PRATS";
 
 function buildBanner() {
 	return `[${PROJECT_NAME}] by ${AUTHOR_NAME}`;
