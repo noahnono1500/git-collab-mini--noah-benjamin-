@@ -8,7 +8,11 @@
 const PROJECT_NAME = "git-collab-mini";
 
 // ★ À MODIFIER PAR LES DEUX (VALEUR DIFFÉRENTE OBLIGATOIRE)
+ feature/benjamin-djaoui/banner-v2
+const AUTHOR_NAME = "Benjamin DJAOUI";
+
 const AUTHOR_NAME = "Noah PRATS";
+ main
 
 function buildBanner() {
 	return `[${PROJECT_NAME}] by ${AUTHOR_NAME}`;
